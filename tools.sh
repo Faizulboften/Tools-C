@@ -41,17 +41,17 @@ echo
 
 limit=100
 sleep 1
-echo "\033[031m     ▇▇▇▇▇▇▇"
-echo "\033[037m     ▇▇▇▇▇▇▇"
-echo "\033[031mSELAMAT DATANG \033[037mDi Tools Apmz"
+echo " \033[31;1m    ▇▇▇▇▇▇▇"
+echo "\033[37;1m     ▇▇▇▇▇▇▇"
+echo "\033[31;1mSELAMAT DATANG \033[37;1mDi Tools Fizul Kontol lu"
 sleep 1
-echo -n "siapa nama anda?:"
+echo -n "My Name Is?:"
 read nama;
-sleep 2
-echo "Hallo salam kenal tuan \033[036m[$nama]"
-sleep 1
-echo "\033[037mJangan Lupa subscribe channel admin woke:)"
-sleep 1
+sleep 3
+echo "Hallo salam kenal Sad \033[31;1m[$nama]"
+sleep 3
+echo "\033[32;1mJangan Lupa subscribe channel admin woke:)"
+sleep 3
 clear
 echo -n "apakah anda sudah subscribe channel admin? y/n :"
 read pilih
@@ -65,33 +65,29 @@ elif [ $pilih = "n" ];
 then
 sleep 2
 echo "SILAHKAN SUBSCRIBE CHANNEL ADMIN"
-termux-open-url "https://youtu.be/ZkmoVGBJF-0"
-sleep 4
+termux-open-url "https://www.youtube.com/channel/UCSxkYGsMV5DvXz4GQJskl9Q"
+sleel 4
 echo "MAKASIH SUDAH DUKUNG  CHANNEL ADMIN^_^"
 sleep 2
 clear
 else
 echo "anda salah memasukan input!!!!"
 sleep 2
-sh hek.sh
+sh tools.sh
 fi
 clear
 sleep 1
 python2 loding692
 sleep 1
 clear
-echo "\033[037m  <═════════════════════════════════════════>"
-echo "  <\>\033[032m      WELCOME TO MY TOOLS\033[037m|\033[033mTHE X MANZ   \033[037m<\>"
+echo "\033[37;1m  <═════════════════════════════════════════>"
+echo "  <\>\033[37;1m      WELCOME TO MY TOOLS\033[31;1m|\033[37;1mTHE XXX BOKEP   \033[31;1m<\>"
 echo "  <═════════════════════════════════════════>"
-sleep 1
-echo "\033[032m   ╲    ╱   \033[031m ●\033[033m T O O L S\033[031m●\033[033m I N S T A L L E R\033[031m●"
-echo "\033[032m   ╱▔▔▔▔╲   \033[036m    Author\033[032m   :\033[037m Fahmi Apz"
-echo "\033[032m  ┃┈\033[037m▇\033[032m┈┈\033[037m▇\033[032m┈┃ \033[036m     Youtube\033[032m  :\033[037m Apmz Channel"
-echo "\033[032m╭╮┣━━━━━━┫╭╮\033[036m    Instagram\033[032m:\033[037m Xc_Danz12"
-echo "\033[032m┃┃┃┈┈┈┈┈┈┃┃┃\033[036m    Github\033[32m   :\033[037m BangDanz"
-echo "\033[032m╰╯┃┈┈┈┈┈┈┃╰╯" 
-echo "\033[032m  ╰┓┏━━┓┏╯"   
-echo "\033[032m   ╰╯  ╰╯"                               
+sleep 2
+ echo "\033[31;1m/_  __/ __ \/ __ \/ /  / ___/"       \033[34;1mDEVLOPER : Faizul Boften"
+ echo "\033[31;1 / / / / / / / / / /   \__ \"         \033[34;1mFACEBOOK : FAIZUL"
+ echo "\033[37;1m / / / /_/ / /_/ / /______/ /"       \033[34;1mWHASTAPP : 082271426251"
+ echo "\033[31;1m/_/  \____/\____/_____/____/"                        
 echo "${b} ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬${k}ஜ۩��۩ஜ${b}▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬"
 echo "${m} [ ${p}Subscribe Youtube${m}:${p}Apmz Channel ${m}]"
 echo "${m}          [ ${h}Version${m}:${c}New ${p}*_* ${m}]"
@@ -106,7 +102,7 @@ echo  "\033[032m[\033[037m1\033[032m]\033[037m.\033[031m [\033[037m HACKING FACE
 echo
 echo  "\033[032m[\033[037m2\033[032m]\033[037m.\033[031m [\033[037m HACKING INSTAGRAM ACCOUNT\033[031m  ]    \033[033m[\033[032mON\033[033m]\033[031m●"
 echo
-echo  "\033[032m[\033[037m3\033[032m]\033[037m.\033[031m [\033[037m TOOLSXC APMZ CHANNEL\33[031m       ]    \033[033m[\033[032mON\033[033m]\033[031m●"
+echo  "\033[032m[\033[037m3\033[032m]\033[037m.\033[031m [\033[037m TOOLSXC Htc CHANNEL\33[031m       ]    \033[033m[\033[032mON\033[033m]\033[031m●"
 echo
 echo  "\033[032m[\033[037m4\033[032m]\033[037m.\033[031m [\033[037m KUMPULAN TOOLS SPAM SMS \033[031m   ]    \033[033m[\033[032mON\033[033m]\033[031m●"
 echo
@@ -130,7 +126,7 @@ echo "v"
 read -p  "[?]pilih--->:" pilih;
 if [ $pilih = "1" ];
 then
-echo "\033[032m[\033[037m*\033[032m]\033[037mMulai Penginstallan..."
+echo "\033[032m[\033[037m*\033[032m]\033[31;1mmMulai Penginstallan..."
 sleep 2
 apt update && apt upgrade
 apt install python python2
@@ -176,7 +172,7 @@ sleep 2
 elif [ $pilih = "3" ];
 then
 sleep 1
-echo "\033[032m[\033[037m*\033[032m]\033[037mMulaii Penginstallan.."
+echo "\033[032m[\033[037m*\033[032m]\033[31;1mMulaii Penginstallan.."
 sleep 2
 apt update && apt upgrade
 apt install git
@@ -188,7 +184,7 @@ sleep 2
 elif [ $pilih = "4" ];
 then
 sleep 1
-echo "\033[032m[\033[037m*\033[032m]\033[037mMulai penginstallan..."
+echo "\033[032m[\033[037m*\033[032m]\033[31;1mMulai penginstallan..."
 sleep 2
 apt update && apt upgrade
 git clone https://github.com/BangDanz/SpamApmz
@@ -199,7 +195,7 @@ clear
 elif [ $pilih = "5" ];
 then
 sleep 1
-echo "\033[032m[\033[037m*\033[032m]\033[037mMulai Penginstallan..."
+echo "\033[032m[\033[037m*\033[032m]\033[31;mmMulai Penginstallan..."
 echo "\033[036m"
 sleep 2
 apt update && apt upgrade
@@ -248,7 +244,7 @@ clear
 elif [ $pilih = "00" ];
 then
 sleep 1
-echo "\033[032m[\033[037m*\033[032m]\033[036mTHANKS SUDAH PAKAI TOOLS SAYA ^_^ "
+echo "\033[032m[\033[037m*\033[032m]\033[31;1mTHANKS SUDAH PAKAI TOOLS SAYA ^_^ "
 sleep 1
 echo "JANGAN LUPA SUBSCRIBE CHANNEL ADMIN^_^"
 sleep 1
@@ -262,13 +258,13 @@ then
 sleep 1
 echo "\033[032m Sedang membuka youtube.."
 sleep 2
-termux-open-url "https://www.youtube.com/channel/UCS4EpzW-9kWTIt3Dmzb4oQQ"
+termux-open-url "https://www.youtube.com/channel/UCSxkYGsMV5DvXz4GQJskl9Q"
 echo "THANKS SUDAH SUPPORT CHANNEL SAYA^_^"
 sleep 1
-sh hek.sh
+sh tools.sh
 
 else
 echo "input yang anda masukan tidak ada!!"
 sleep 2
-sh hek.sh
+sh tools.sh
 fi
