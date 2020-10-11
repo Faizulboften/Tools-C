@@ -81,16 +81,11 @@ python2 loding692
 sleep 1
 clear
 echo "\033[37;1m  <═════════════════════════════════════════>"
-echo "  <\>\033[37;1m      WELCOME TO MY TOOLS\033[31;1m|\033[37;1mTHE XXX BOKEP   \033[31;1m<\>"
+echo "  <\>\033[37;1m      WELCOME TO MY TOOLS\033[31;1m|\033[37;1mTHE X-FaizulBoften   \033[31;1m<\>"
 echo "  <═════════════════════════════════════════>"
-sleep 2
-echo
-echo "\033[31;1m/_  __/ __ \/ __ \/ /  / ___/"       \033[34;1mDEVLOPER : Faizul Boften"
-echo "\033[31;1 / / / / / / / / / /   \__ \"         \033[34;1mFACEBOOK : FAIZUL"
-echo "\033[37;1m / / / /_/ / /_/ / /______/ /"       \033[34;1mWHASTAPP : 082271426251"
-echo "\033[31;1m/_/  \____/\____/_____/____/"        \033[34;1GITHUB    : https://github.com/Faizulboften"                        
+sleep 2                      
 echo "${b} ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬${k}ஜ۩��۩ஜ${b}▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬"
-echo "${m} [ ${p}Subscribe Youtube${m}:${p}Apmz Channel ${m}]"
+echo "${m} [ ${p}Subscribe Youtube${m}:${p}Htc ctr Gaming ${m}]"
 echo "${m}          [ ${h}Version${m}:${c}New ${p}*_* ${m}]"
 echo "${b} ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬"
 echo "\033[032m[\033[037m+\033[032m]\033[034m===================================================\033[032m[\033[037m+\033[032m]"
